@@ -1,0 +1,7 @@
+{
+  "name": "Tros ",
+  "description": "A comprehensive employee attendance tracking system for Tros, featuring check-in/out, employee management, and AI-powered reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
